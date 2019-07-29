@@ -1,0 +1,10 @@
+    
+This document is provided for Data section of Project. 
+The problem: Best Neighbourhood of Toronto for new Sport Nutrition Shop
+
+My project is aimed to help in finding out best place in Toronto for Sport Nutrition Shop
+
+The data used in Project:
+1. The neighbourhoods list 
+2. Location data of neighbourhoods
+3. Foursquare API for getting information about existing Gyms/Fitness Centers and Other Sport Nutrition shops in neighbourhoods
